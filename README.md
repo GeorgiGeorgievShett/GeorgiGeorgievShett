@@ -9,3 +9,4 @@ My name is Georgi Georgiev and I am currently a Computer Science masters student
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
 ![OSINT](https://img.shields.io/badge/OSINT-4GOOD-blue)
+![C#](https://simpleicons.org/icons/csharp.svg)
